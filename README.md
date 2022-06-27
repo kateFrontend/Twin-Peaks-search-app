@@ -18,7 +18,7 @@ Vanilla javaScript application to search actors by name
  
 <!-- USAGE EXAMPLES -->
 ## Usage
-
+<p> </p>
 <p>All photo and video materials are used for educational purposes only.</p>
 <p>Application is responsive for all mobile devices.</p>
 
