@@ -9,7 +9,7 @@
 Vanilla javaScript application to search actors by name 
 
   <p>
-    <a href="https://american-recipe.glitch.me/">View Demo Here</a>
+    <a href="https://twin-peaks-actors.glitch.me/">View Demo Here</a>
   </p>
 
 ## Built With
