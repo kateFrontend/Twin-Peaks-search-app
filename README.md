@@ -1,6 +1,6 @@
 
 <div>
-  <h1>Twin Peaks search app</h1> 
+  <h1>Twin Peaks actors search app</h1> 
   <img src="image/21!!!.jpg" alt="cover image" width="auto">
 </div>
 
