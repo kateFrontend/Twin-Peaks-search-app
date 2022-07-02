@@ -1,7 +1,7 @@
 
 <div>
   <h1>Twin Peaks search app</h1> 
-  <img src="" alt="cover image" width="auto">
+  <img src="image/21!!!.jpg" alt="cover image" width="auto">
 </div>
 
 <!-- ABOUT THE PROJECT -->
